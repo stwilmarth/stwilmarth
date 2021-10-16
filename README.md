@@ -3,7 +3,7 @@
 U.S. Navy veteran -> Technical Project/Program Manager -> Computer Science Enthusiast
 
 ### Education
-- M.S. Computer Science | Georgia Institute of Technology | Specialization: Machine Learning | June 2023 (in progress)
+- M.S. Computer Science w/ a Specialization: Machine Learning| Georgia Institute of Technology | June 2023 (in progress)
 - B.S. Computer Science | Oregon Statue University | June 2021
 - B.S. Aerospace Engineering | San Diego State University | May 2010 
 
