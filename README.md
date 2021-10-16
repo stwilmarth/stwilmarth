@@ -11,8 +11,9 @@ U.S. Navy veteran -> Technical Project/Program Manager -> Computer Science Enthu
 - Anything AI
 - Parallel Programming
 
-## Contact
+## Contact/Sites
 - [LinkedIn](https://www.linkedin.com/in/seanwilmarth/)
+- [Kaggle](https://www.kaggle.com/seanwilmarth)
 
 <!---
 stwilmarth/stwilmarth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
